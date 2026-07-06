@@ -36,13 +36,13 @@ pm2 start npm --name "pm2-webui" -- start
 
 #### 2. Настройка Nginx Proxy (Порт 4343)
 
-Для того чтобы разработчики могли безопасно заходить в интерфейс через порт **4343**, добавьте следующую конфигурацию в ваш Nginx (`/etc/nginx/sites-available/pm2-webui`):
+Для того чтобы разработчики могли безопасно заходить в интерфейс через DNS, добавьте следующую конфигурацию в ваш Nginx (`/etc/nginx/sites-available/pm2-webui`):
 
 ```nginx
 
 server {
     listen 80 443;
-    server_name _;
+    server_name pm2-monitor.dev;
 
     location / {
         proxy_pass http://127.0.0.1:4343;
