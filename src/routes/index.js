@@ -9,7 +9,7 @@ const {
   stopApp,
 } = require("../providers/pm2/api");
 const { validateAdminUser } = require("../services/admin.service");
-const { readLogsReverse } = require("../utils/read-logs.util");
+const { readLogsReverse, getAppMetrics } = require("../utils/read-logs.util");
 const {
   getCurrentGitBranch,
   getCurrentGitCommit,
@@ -65,12 +65,19 @@ router.get("/logout", (ctx) => {
 router.get("/apps/:appName", isAuthenticated, async (ctx) => {
   const { appName } = ctx.params;
   let app = await describeApp(appName);
+  const { stats, spikes } = await getAppMetrics(appName);
+
   if (app) {
     app.git_branch = await getCurrentGitBranch(app.pm2_env_cwd);
     app.git_commit = await getCurrentGitCommit(app.pm2_env_cwd);
     app.env_file = await getEnvFileContent(app.pm2_env_cwd);
+
+    app.stats = stats;
+    app.spikes = spikes;
+
     // const stdout = await readLogsReverse({ filePath: app.pm_out_log_path });
     // const stderr = await readLogsReverse({ filePath: app.pm_err_log_path });
+
     const stdout = { lines: [] };
     const stderr = { lines: [] };
     stdout.lines = stdout.lines
@@ -83,6 +90,7 @@ router.get("/apps/:appName", isAuthenticated, async (ctx) => {
         return ansiConvert.toHtml(log);
       })
       .join("<br/>");
+
     return await ctx.render("apps/app", {
       app,
       logs: {

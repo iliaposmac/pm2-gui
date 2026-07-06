@@ -1,0 +1,2846 @@
+{
+  "name": "pm2-prom-module",
+  "status": "online",
+  "pm_id": 0,
+  "instances": 1,
+  "exec_mode": "fork_mode",
+  "env_file": "",
+  "stats": [
+    {
+      "timestamp": "2026-07-06T10:54:02.966Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.97",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.19 MB",
+          "elapsed": "12552s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:05.451Z",
+      "cpu": 1,
+      "memory": "63.72 MB",
+      "eventLoop": "0.97",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "12555s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:07.961Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.97",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.56 MB",
+          "elapsed": "12557s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:10.451Z",
+      "cpu": 0,
+      "memory": "63.72 MB",
+      "eventLoop": "0.97",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "12560s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:12.961Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.98",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.56 MB",
+          "elapsed": "12562s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:15.422Z",
+      "cpu": 0,
+      "memory": "63.72 MB",
+      "eventLoop": "0.98",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.0%",
+          "memory": "63.72 MB",
+          "elapsed": "12565s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:43.559Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.98",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.73 MB",
+          "elapsed": "12593s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:46.075Z",
+      "cpu": 1,
+      "memory": "63.44 MB",
+      "eventLoop": "0.97",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.44 MB",
+          "elapsed": "12596s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:48.561Z",
+      "cpu": 0,
+      "memory": "63.64 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.67 MB",
+          "elapsed": "12598s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:51.080Z",
+      "cpu": 1,
+      "memory": "63.45 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.45 MB",
+          "elapsed": "12601s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:53.565Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.23 MB",
+          "elapsed": "12603s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T10:54:56.074Z",
+      "cpu": 0,
+      "memory": "63.45 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.45 MB",
+          "elapsed": "12606s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:00:59.096Z",
+      "cpu": 0,
+      "memory": "63.41 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.41 MB",
+          "elapsed": "12969s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:01.592Z",
+      "cpu": 0,
+      "memory": "63.11 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.11 MB",
+          "elapsed": "12971s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:04.073Z",
+      "cpu": 0,
+      "memory": "63.38 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.38 MB",
+          "elapsed": "12974s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:06.606Z",
+      "cpu": 0,
+      "memory": "63.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.06 MB",
+          "elapsed": "12976s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:09.083Z",
+      "cpu": 0,
+      "memory": "63.33 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.33 MB",
+          "elapsed": "12979s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:11.604Z",
+      "cpu": 1,
+      "memory": "63.11 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.11 MB",
+          "elapsed": "12981s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:14.102Z",
+      "cpu": 0,
+      "memory": "63.39 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.78 MB",
+          "elapsed": "12984s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:16.610Z",
+      "cpu": 0,
+      "memory": "63.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.06 MB",
+          "elapsed": "12986s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:19.071Z",
+      "cpu": 1,
+      "memory": "63.72 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.72 MB",
+          "elapsed": "12989s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:21.608Z",
+      "cpu": 1,
+      "memory": "63.11 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.11 MB",
+          "elapsed": "12991s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:24.085Z",
+      "cpu": 0,
+      "memory": "63.78 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.78 MB",
+          "elapsed": "12994s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:26.604Z",
+      "cpu": 1,
+      "memory": "63.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.06 MB",
+          "elapsed": "12996s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:29.094Z",
+      "cpu": 0,
+      "memory": "63.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "12999s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:31.603Z",
+      "cpu": 0,
+      "memory": "63.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.09 MB",
+          "elapsed": "13001s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:34.091Z",
+      "cpu": 1,
+      "memory": "63.77 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.77 MB",
+          "elapsed": "13004s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:36.611Z",
+      "cpu": 1,
+      "memory": "63.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.09 MB",
+          "elapsed": "13006s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:39.085Z",
+      "cpu": 0,
+      "memory": "63.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.75 MB",
+          "elapsed": "13009s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:41.616Z",
+      "cpu": 0,
+      "memory": "63.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.09 MB",
+          "elapsed": "13011s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:44.088Z",
+      "cpu": 1,
+      "memory": "63.70 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.70 MB",
+          "elapsed": "13014s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:46.586Z",
+      "cpu": 0,
+      "memory": "63.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.0%",
+          "memory": "63.09 MB",
+          "elapsed": "13016s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:49.103Z",
+      "cpu": 0,
+      "memory": "63.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.75 MB",
+          "elapsed": "13019s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:51.602Z",
+      "cpu": 0,
+      "memory": "63.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.09 MB",
+          "elapsed": "13021s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:01:57.810Z",
+      "cpu": 0,
+      "memory": "63.81 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.81 MB",
+          "elapsed": "13027s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:00.316Z",
+      "cpu": 0,
+      "memory": "63.39 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.39 MB",
+          "elapsed": "13030s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:02.810Z",
+      "cpu": 1,
+      "memory": "63.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.06 MB",
+          "elapsed": "13032s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:05.316Z",
+      "cpu": 0,
+      "memory": "63.33 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.33 MB",
+          "elapsed": "13035s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:07.803Z",
+      "cpu": 0,
+      "memory": "63.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.06 MB",
+          "elapsed": "13037s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:10.304Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.34 MB",
+          "elapsed": "13040s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:12.813Z",
+      "cpu": 0,
+      "memory": "63.08 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.08 MB",
+          "elapsed": "13042s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:15.292Z",
+      "cpu": 1,
+      "memory": "63.34 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.34 MB",
+          "elapsed": "13045s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:17.819Z",
+      "cpu": 1,
+      "memory": "63.13 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.13 MB",
+          "elapsed": "13047s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:20.319Z",
+      "cpu": 0,
+      "memory": "63.41 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.41 MB",
+          "elapsed": "13050s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:22.811Z",
+      "cpu": 0,
+      "memory": "63.08 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.08 MB",
+          "elapsed": "13052s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:25.324Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.34 MB",
+          "elapsed": "13055s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:27.823Z",
+      "cpu": 0,
+      "memory": "63.13 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.13 MB",
+          "elapsed": "13057s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:30.313Z",
+      "cpu": 0,
+      "memory": "63.41 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.41 MB",
+          "elapsed": "13060s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:32.822Z",
+      "cpu": 1,
+      "memory": "63.13 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.13 MB",
+          "elapsed": "13062s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:35.290Z",
+      "cpu": 0,
+      "memory": "63.42 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.42 MB",
+          "elapsed": "13065s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:37.804Z",
+      "cpu": 0,
+      "memory": "63.13 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.13 MB",
+          "elapsed": "13067s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:40.332Z",
+      "cpu": 1,
+      "memory": "63.41 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.80 MB",
+          "elapsed": "13070s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:48.483Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.69 MB",
+          "elapsed": "13078s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:50.949Z",
+      "cpu": 1,
+      "memory": "63.84 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.16 MB",
+          "elapsed": "13080s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:53.480Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13083s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:55.963Z",
+      "cpu": 0,
+      "memory": "63.81 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.16 MB",
+          "elapsed": "13085s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:02:58.482Z",
+      "cpu": 1,
+      "memory": "63.66 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.66 MB",
+          "elapsed": "13088s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:00.966Z",
+      "cpu": 1,
+      "memory": "63.81 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.16 MB",
+          "elapsed": "13090s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:03.484Z",
+      "cpu": 0,
+      "memory": "63.72 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "13093s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:05.973Z",
+      "cpu": 0,
+      "memory": "63.89 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.16 MB",
+          "elapsed": "13095s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:08.486Z",
+      "cpu": 1,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13098s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:10.984Z",
+      "cpu": 1,
+      "memory": "63.84 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "64.41 MB",
+          "elapsed": "13100s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:13.485Z",
+      "cpu": 0,
+      "memory": "63.94 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.94 MB",
+          "elapsed": "13103s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:15.986Z",
+      "cpu": 0,
+      "memory": "63.86 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.45 MB",
+          "elapsed": "13105s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:18.476Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13108s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:20.989Z",
+      "cpu": 0,
+      "memory": "63.38 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.47 MB",
+          "elapsed": "13110s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:23.489Z",
+      "cpu": 1,
+      "memory": "63.69 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.69 MB",
+          "elapsed": "13113s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:25.997Z",
+      "cpu": 1,
+      "memory": "63.30 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.39 MB",
+          "elapsed": "13115s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:28.492Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13118s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:30.998Z",
+      "cpu": 1,
+      "memory": "63.36 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.45 MB",
+          "elapsed": "13120s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:33.486Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13123s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:36.008Z",
+      "cpu": 0,
+      "memory": "63.36 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.45 MB",
+          "elapsed": "13126s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:38.504Z",
+      "cpu": 1,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.70 MB",
+          "elapsed": "13128s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:40.984Z",
+      "cpu": 1,
+      "memory": "63.38 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.38 MB",
+          "elapsed": "13130s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:43.475Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13133s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:45.989Z",
+      "cpu": 1,
+      "memory": "63.34 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.36 MB",
+          "elapsed": "13135s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:48.503Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.69 MB",
+          "elapsed": "13138s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:50.997Z",
+      "cpu": 0,
+      "memory": "63.30 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.30 MB",
+          "elapsed": "13140s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:53.493Z",
+      "cpu": 1,
+      "memory": "63.69 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.70 MB",
+          "elapsed": "13143s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:55.998Z",
+      "cpu": 1,
+      "memory": "63.30 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.30 MB",
+          "elapsed": "13145s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:03:58.508Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13148s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:00.987Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.34 MB",
+          "elapsed": "13150s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:03.508Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.16 MB",
+          "elapsed": "13153s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:06.003Z",
+      "cpu": 0,
+      "memory": "63.30 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.30 MB",
+          "elapsed": "13156s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:08.506Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.16 MB",
+          "elapsed": "13158s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:10.999Z",
+      "cpu": 0,
+      "memory": "63.30 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.30 MB",
+          "elapsed": "13160s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:13.503Z",
+      "cpu": 0,
+      "memory": "63.20 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.20 MB",
+          "elapsed": "13163s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:16.005Z",
+      "cpu": 0,
+      "memory": "63.36 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.36 MB",
+          "elapsed": "13166s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:18.496Z",
+      "cpu": 0,
+      "memory": "63.20 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.20 MB",
+          "elapsed": "13168s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:21.024Z",
+      "cpu": 0,
+      "memory": "63.36 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.36 MB",
+          "elapsed": "13171s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:23.506Z",
+      "cpu": 0,
+      "memory": "63.20 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.20 MB",
+          "elapsed": "13173s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:26.004Z",
+      "cpu": 0,
+      "memory": "64.33 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "64.34 MB",
+          "elapsed": "13176s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:28.476Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.19 MB",
+          "elapsed": "13178s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:31.010Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.34 MB",
+          "elapsed": "13181s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:33.485Z",
+      "cpu": 0,
+      "memory": "63.16 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.16 MB",
+          "elapsed": "13183s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:36.009Z",
+      "cpu": 0,
+      "memory": "63.30 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.30 MB",
+          "elapsed": "13186s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:38.520Z",
+      "cpu": 0,
+      "memory": "63.20 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.20 MB",
+          "elapsed": "13188s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:41.026Z",
+      "cpu": 0,
+      "memory": "63.36 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.36 MB",
+          "elapsed": "13191s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:43.518Z",
+      "cpu": 0,
+      "memory": "63.20 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.20 MB",
+          "elapsed": "13193s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:46.022Z",
+      "cpu": 0,
+      "memory": "63.38 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.38 MB",
+          "elapsed": "13196s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:48.523Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.19 MB",
+          "elapsed": "13198s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:50.987Z",
+      "cpu": 0,
+      "memory": "63.33 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.33 MB",
+          "elapsed": "13200s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:55.177Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.34 MB",
+          "elapsed": "13205s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:04:57.678Z",
+      "cpu": 0,
+      "memory": "63.48 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.48 MB",
+          "elapsed": "13207s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:00.196Z",
+      "cpu": 0,
+      "memory": "63.34 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.34 MB",
+          "elapsed": "13210s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:02.695Z",
+      "cpu": 0,
+      "memory": "63.48 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.48 MB",
+          "elapsed": "13212s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:05.170Z",
+      "cpu": 0,
+      "memory": "63.25 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.28 MB",
+          "elapsed": "13215s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:07.698Z",
+      "cpu": 0,
+      "memory": "63.42 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.42 MB",
+          "elapsed": "13217s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:10.173Z",
+      "cpu": 0,
+      "memory": "63.25 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.28 MB",
+          "elapsed": "13220s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:12.695Z",
+      "cpu": 0,
+      "memory": "63.42 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.42 MB",
+          "elapsed": "13222s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:28.564Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "63.19 MB",
+          "elapsed": "13238s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:31.056Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13241s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:33.556Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.19 MB",
+          "elapsed": "13243s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:36.059Z",
+      "cpu": 0,
+      "memory": "63.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "13246s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:38.548Z",
+      "cpu": 0,
+      "memory": "64.06 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "64.06 MB",
+          "elapsed": "13248s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:41.055Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13251s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:43.568Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.19 MB",
+          "elapsed": "13253s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:46.070Z",
+      "cpu": 1,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.66 MB",
+          "elapsed": "13256s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:48.554Z",
+      "cpu": 0,
+      "memory": "63.19 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.58 MB",
+          "elapsed": "13258s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:51.050Z",
+      "cpu": 0,
+      "memory": "63.70 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13261s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:53.568Z",
+      "cpu": 0,
+      "memory": "63.56 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.56 MB",
+          "elapsed": "13263s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:56.063Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13266s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:05:58.571Z",
+      "cpu": 0,
+      "memory": "63.56 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.56 MB",
+          "elapsed": "13268s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:01.035Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13271s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:03.573Z",
+      "cpu": 0,
+      "memory": "63.58 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.58 MB",
+          "elapsed": "13273s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:06.083Z",
+      "cpu": 1,
+      "memory": "63.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "13276s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:08.577Z",
+      "cpu": 0,
+      "memory": "63.56 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.56 MB",
+          "elapsed": "13278s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:11.076Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13281s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:13.578Z",
+      "cpu": 0,
+      "memory": "63.58 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.58 MB",
+          "elapsed": "13283s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:16.071Z",
+      "cpu": 1,
+      "memory": "63.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.72 MB",
+          "elapsed": "13286s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:18.587Z",
+      "cpu": 0,
+      "memory": "63.58 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.58 MB",
+          "elapsed": "13288s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:21.084Z",
+      "cpu": 1,
+      "memory": "63.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "63.72 MB",
+          "elapsed": "13291s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:23.581Z",
+      "cpu": 0,
+      "memory": "63.56 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.56 MB",
+          "elapsed": "13293s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:26.081Z",
+      "cpu": 0,
+      "memory": "63.66 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.66 MB",
+          "elapsed": "13296s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:28.588Z",
+      "cpu": 0,
+      "memory": "63.58 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.58 MB",
+          "elapsed": "13298s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:31.082Z",
+      "cpu": 1,
+      "memory": "63.70 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.70 MB",
+          "elapsed": "13301s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:33.587Z",
+      "cpu": 0,
+      "memory": "63.48 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.48 MB",
+          "elapsed": "13303s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:36.088Z",
+      "cpu": 0,
+      "memory": "63.69 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.69 MB",
+          "elapsed": "13306s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:38.593Z",
+      "cpu": 0,
+      "memory": "63.48 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "63.48 MB",
+          "elapsed": "13308s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:41.075Z",
+      "cpu": 1,
+      "memory": "63.70 MB",
+      "eventLoop": "0.94",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "63.20 MB",
+          "elapsed": "13311s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:43.566Z",
+      "cpu": 0,
+      "memory": "63.48 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "63.48 MB",
+          "elapsed": "13313s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:46.073Z",
+      "cpu": 1,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13316s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:48.580Z",
+      "cpu": 0,
+      "memory": "59.03 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.03 MB",
+          "elapsed": "13318s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:51.091Z",
+      "cpu": 0,
+      "memory": "59.50 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.50 MB",
+          "elapsed": "13321s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:53.587Z",
+      "cpu": 0,
+      "memory": "59.02 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "59.02 MB",
+          "elapsed": "13323s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:56.080Z",
+      "cpu": 1,
+      "memory": "58.70 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.70 MB",
+          "elapsed": "13326s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:06:58.578Z",
+      "cpu": 0,
+      "memory": "58.97 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.97 MB",
+          "elapsed": "13328s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:01.091Z",
+      "cpu": 1,
+      "memory": "58.75 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13331s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:03.603Z",
+      "cpu": 0,
+      "memory": "59.03 MB",
+      "eventLoop": "0.96",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.03 MB",
+          "elapsed": "13333s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:06.101Z",
+      "cpu": 0,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13336s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:08.598Z",
+      "cpu": 0,
+      "memory": "59.05 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "59.05 MB",
+          "elapsed": "13338s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:11.084Z",
+      "cpu": 1,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13341s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:13.599Z",
+      "cpu": 0,
+      "memory": "59.05 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.05 MB",
+          "elapsed": "13343s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:16.106Z",
+      "cpu": 1,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13346s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:18.587Z",
+      "cpu": 0,
+      "memory": "59.03 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.03 MB",
+          "elapsed": "13348s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:21.095Z",
+      "cpu": 0,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.75 MB",
+          "elapsed": "13351s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:23.607Z",
+      "cpu": 0,
+      "memory": "59.05 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.05 MB",
+          "elapsed": "13353s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:26.108Z",
+      "cpu": 1,
+      "memory": "58.75 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "58.75 MB",
+          "elapsed": "13356s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:28.614Z",
+      "cpu": 0,
+      "memory": "59.03 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.03 MB",
+          "elapsed": "13358s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:31.092Z",
+      "cpu": 0,
+      "memory": "58.70 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.70 MB",
+          "elapsed": "13361s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:33.608Z",
+      "cpu": 0,
+      "memory": "58.97 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "59.36 MB",
+          "elapsed": "13363s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:36.101Z",
+      "cpu": 1,
+      "memory": "58.72 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.72 MB",
+          "elapsed": "13366s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:40.428Z",
+      "cpu": 0,
+      "memory": "59.27 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "59.27 MB",
+          "elapsed": "13370s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:42.937Z",
+      "cpu": 0,
+      "memory": "58.92 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.92 MB",
+          "elapsed": "13372s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:45.424Z",
+      "cpu": 0,
+      "memory": "59.27 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "59.27 MB",
+          "elapsed": "13375s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:47.945Z",
+      "cpu": 0,
+      "memory": "58.94 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.94 MB",
+          "elapsed": "13377s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:50.419Z",
+      "cpu": 0,
+      "memory": "59.25 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "59.45 MB",
+          "elapsed": "13380s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:52.948Z",
+      "cpu": 0,
+      "memory": "58.88 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.88 MB",
+          "elapsed": "13382s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:55.426Z",
+      "cpu": 0,
+      "memory": "59.30 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "58.80 MB",
+          "elapsed": "13385s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:07:57.942Z",
+      "cpu": 0,
+      "memory": "58.95 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.95 MB",
+          "elapsed": "13387s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:08:00.413Z",
+      "cpu": 0,
+      "memory": "59.55 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.55 MB",
+          "elapsed": "13390s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:08:02.952Z",
+      "cpu": 0,
+      "memory": "58.89 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.89 MB",
+          "elapsed": "13392s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:08:05.398Z",
+      "cpu": 0,
+      "memory": "58.80 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "58.80 MB",
+          "elapsed": "13395s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:08:59.371Z",
+      "cpu": 0,
+      "memory": "59.09 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "59.13 MB",
+          "elapsed": "13449s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:01.892Z",
+      "cpu": 0,
+      "memory": "58.83 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.83 MB",
+          "elapsed": "13451s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:04.372Z",
+      "cpu": 0,
+      "memory": "59.08 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.7%",
+          "memory": "59.11 MB",
+          "elapsed": "13454s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:06.901Z",
+      "cpu": 0,
+      "memory": "58.83 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.83 MB",
+          "elapsed": "13456s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:09.376Z",
+      "cpu": 0,
+      "memory": "59.08 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.11 MB",
+          "elapsed": "13459s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:15.073Z",
+      "cpu": 0,
+      "memory": "59.52 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.4%",
+          "memory": "59.52 MB",
+          "elapsed": "13465s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:17.562Z",
+      "cpu": 0,
+      "memory": "58.97 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "58.97 MB",
+          "elapsed": "13467s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:20.075Z",
+      "cpu": 1,
+      "memory": "59.47 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.47 MB",
+          "elapsed": "13470s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:22.562Z",
+      "cpu": 0,
+      "memory": "58.97 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "58.97 MB",
+          "elapsed": "13472s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:25.078Z",
+      "cpu": 0,
+      "memory": "59.50 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.52 MB",
+          "elapsed": "13475s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:27.550Z",
+      "cpu": 0,
+      "memory": "58.97 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "59.33 MB",
+          "elapsed": "13477s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:30.054Z",
+      "cpu": 0,
+      "memory": "59.50 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.0%",
+          "memory": "59.50 MB",
+          "elapsed": "13480s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:32.545Z",
+      "cpu": 0,
+      "memory": "59.28 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "1.0%",
+          "memory": "59.28 MB",
+          "elapsed": "13482s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:35.078Z",
+      "cpu": 1,
+      "memory": "59.44 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.44 MB",
+          "elapsed": "13485s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:37.563Z",
+      "cpu": 0,
+      "memory": "59.28 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.5%",
+          "memory": "59.28 MB",
+          "elapsed": "13487s"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-06T11:09:40.074Z",
+      "cpu": 0,
+      "memory": "59.44 MB",
+      "eventLoop": "0.95",
+      "reqSec": "0",
+      "internal_processes": [
+        {
+          "pid": 45068,
+          "cpu": "0.3%",
+          "memory": "59.44 MB",
+          "elapsed": "13490s"
+        }
+      ]
+    }
+  ],
+  "spikes": []
+}
