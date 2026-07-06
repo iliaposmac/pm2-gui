@@ -7,6 +7,7 @@ const {
   reloadApp,
   restartApp,
   stopApp,
+  fullAppInfo,
 } = require("../providers/pm2/api");
 const { validateAdminUser } = require("../services/admin.service");
 const { readLogsReverse, getAppMetrics } = require("../utils/read-logs.util");
@@ -14,7 +15,7 @@ const {
   getCurrentGitBranch,
   getCurrentGitCommit,
 } = require("../utils/git.util");
-const { getEnvFileContent } = require("../utils/env.util");
+const { getEnvFileContent, jsonToEnvLines } = require("../utils/env.util");
 const { isAuthenticated, checkAuthentication } = require("../middlewares/auth");
 const AnsiConverter = require("ansi-to-html");
 const ansiConvert = new AnsiConverter();
@@ -70,7 +71,15 @@ router.get("/apps/:appName", isAuthenticated, async (ctx) => {
   if (app) {
     app.git_branch = await getCurrentGitBranch(app.pm2_env_cwd);
     app.git_commit = await getCurrentGitCommit(app.pm2_env_cwd);
+
     app.env_file = await getEnvFileContent(app.pm2_env_cwd);
+    const fullAppInfoPm2 = await fullAppInfo(appName);
+    const pm2Env = jsonToEnvLines(fullAppInfoPm2);
+    const section = `\n-------- ENV FILE VARS ----------
+    ${app.env_file.trim()}\n\n\n-------- PM2 VARS ----------
+    ${pm2Env}`;
+
+    app.env_file = section.trim() + "\n";
 
     app.stats = stats;
     app.spikes = spikes;

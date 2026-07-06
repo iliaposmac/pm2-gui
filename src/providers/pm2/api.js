@@ -105,6 +105,27 @@ function describeApp(appName) {
   });
 }
 
+function fullAppInfo(appName) {
+  return new Promise((resolve, reject) => {
+    pm2.connect((err) => {
+      if (err) {
+        reject(err);
+      }
+      pm2.describe(appName, (err, apps) => {
+        pm2.disconnect();
+        if (err) {
+          reject(err);
+        }
+        if (Array.isArray(apps) && apps.length > 0) {
+          resolve(apps[0]);
+        } else {
+          resolve(null);
+        }
+      });
+    });
+  });
+}
+
 function reloadApp(process) {
   return new Promise((resolve, reject) => {
     pm2.connect((err) => {
@@ -162,4 +183,5 @@ module.exports = {
   reloadApp,
   stopApp,
   restartApp,
+  fullAppInfo,
 };
